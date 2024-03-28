@@ -1,4 +1,4 @@
-<h1 align="center ; color: blue;">👋 Hi, VIRUSSSSSSSS</h1>
+<h1 align="center">👋 Hi, VIRUSSSSSSSS</h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programer"/>
